@@ -6,7 +6,7 @@
   
   
   
-  <a href=#><img src="https://github.com/hassan-ettahiri/contributions/blob/1cb988fa9352fa2b06cfba4bf84399a1e18ac41f/contributions.svg"></a>
+  <a href=#><img src="contributions.svg"></a>
   
   <p align="center">
     Visitor count<br>
