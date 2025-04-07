@@ -1,6 +1,5 @@
 
 <div align="center">
-  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/levi/hettahir" alt="hettahir's 42 stats" /></a>
   
   <a href=#><img src="contributions.svg"></a>
   
